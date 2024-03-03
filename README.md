@@ -18,4 +18,4 @@ Welcome to Boomerang! Your hub for unblocked games. 🎮 Explore our open-source
 
 ## License
 
-Distributed under the WTFPL License. See [here](https://github.com/MonkeyGG2/monkeygg2.github.io/blob/main/LICENSE) for more details.
+Distributed under the CC0-1.0 License. See [here](https://github.com/PlayBoomerang/Boomerang/blob/main/LICENSE.md) for more details.
